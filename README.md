@@ -1,6 +1,7 @@
 # uiseries1
-<img src="screenshots/1.png" height="400" alt="Screenshot"/>
-<img src=“screenshots/2.png" height="400" alt="Screenshot"/>
+
+![2](https://user-images.githubusercontent.com/38320749/92266951-b50ebd00-eefd-11ea-9dfa-804f9403e808.png)
+                                                        
 
 A new Flutter application.
 
